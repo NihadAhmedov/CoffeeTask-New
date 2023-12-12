@@ -1,0 +1,289 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.sectionMain {
+    background-image: url(https://corretto.qodeinteractive.com/wp-content/uploads/2018/04/h1-bacground-img-2.jpg);
+    background-size: cover;
+    width: 100%;
+    min-height: 680px;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    text-align: center;
+}
+
+.coffee {
+    width: 60%;
+    height: 60%;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+
+.img1 {
+    width: 200px;
+    height: 200px;
+}
+
+.coffee h1 {
+    font-size: 100px;
+    color: white;
+}
+
+.coffee p {
+    color: white;
+    font-size: 20px;
+}
+
+.coffee button {
+    width: 20%;
+    height: 20%;
+    background-color: transparent;
+    color: white;
+    border: 2px solid;
+}
+
+.btn1:hover {
+    background-color: rgb(195, 160, 116);
+}
+
+
+
+
+.theCoffeeUmumi {
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    margin-top: 30px;
+    padding-top: 30px;
+    background-image: url(https://corretto.qodeinteractive.com/wp-content/uploads/2018/04/new-new-h1-bacground-img-3.jpg);
+}
+
+.technicImg img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+.technicImg button{
+    background-color: blue;
+    margin-bottom: 20px;
+    border: 0;
+    padding: 5px;
+    color: white;
+    cursor: pointer;
+    border: 2px solid blue;
+
+}
+
+.technicImg button:hover{
+    background-color: transparent;
+    color: blue;
+    border: 2px solid blue;
+}
+.section3-1 {
+    margin-top: 20px;
+    padding-top: 20px;
+    width: 100%;
+    height: 270px;
+
+}
+
+.corretoImg {
+    width: 100%;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url(https://corretto.qodeinteractive.com/wp-content/uploads/2018/04/h1-bacground-img-2.jpg);
+}
+
+.corretoImg img {
+    width: 20%;
+    height: 60%;
+}
+
+
+
+.coffeeUmumi {
+    width: 100%;
+    height: auto;
+    text-align: center;
+    background-image: url(https://corretto.qodeinteractive.com/wp-content/uploads/2018/04/h1-bacground-img-1.jpg);
+}
+
+.threeImg img {
+    width: 80%;
+    height: auto;
+}
+
+.coffeeEthiopha {
+    width: 100%;
+    height: 350px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.coffeeEthiopha {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.coffeeUmumi h1 {
+    font-size: 50px;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+
+.coffeeUmumi img {
+    margin-bottom: 20px;
+}
+
+.galleryImg img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+.row {
+    margin-top: 20px;
+}
+
+.galleryUmumiSweet {
+    width: 100%;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: 30px;
+    padding-top: 30px;
+    margin-bottom: 30px;
+    padding-bottom: 30px;
+}
+
+.galleryUmumi {
+    width: 100%;
+    height: auto;
+    margin-top: 30px;
+    padding-top: 30px;
+}
+
+.sixImage {
+    width: 100%;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.imagesEnd{
+    width: 100%;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.imagesEnd img {
+    width: 16%;
+}
+
+.secContact {
+    width: 100%;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url(https://corretto.qodeinteractive.com/wp-content/uploads/2018/04/p2-background-img-1.jpg);
+}
+
+.secContactYazi {
+    width: 90%;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20%;
+}
+
+.secContactYazi p {
+    font-size: 23px;
+    font-weight: 400;
+}
+
+.secContactYazi button {
+    width: 12%;
+    height: 30%;
+    border: none;
+    background-color: rgb(186, 161, 130);
+    color: white;
+}
+
+.secContactYazi button:hover {
+    background-color: black;
+}
+
+.endSec {
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    background-image: url(https://corretto.qodeinteractive.com/wp-content/uploads/2018/04/footer-top-img-1.jpg);
+}
+
+.endSecOne {
+    width: 100%;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.endSecImage img {
+    width: 20%;
+    margin-top: 40px;
+}
+
+.endSecImage {
+    width: 50%;
+    height: auto;
+    color: white;
+}
+
+.endSecImage p {
+    margin: 20px;
+}
+
+.endSecImage h4 {
+    margin-top: 40px;
+}
+
+.endSecImage input {
+    width: 47%;
+    height: 60px;
+    background-color: transparent;
+    border: 2px solid white;
+    color: white;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.endSecImage button {
+    width: 8%;
+    height: 60px;
+
+}
+
+.endSecImage button i {
+    font-size: 100%;
+}
+
+.endSecImage button:hover {
+    background-color: rgb(186, 161, 130);
+}
+
